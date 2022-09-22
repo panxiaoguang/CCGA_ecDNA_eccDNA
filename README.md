@@ -1,4 +1,6 @@
 # CCGA_circulome
+[![DOI](https://zenodo.org/badge/539755936.svg)](https://zenodo.org/badge/latestdoi/539755936)
+
 
 This repository contains code  from "Lv et al. Chromosomal, Extrachromosomal, and Transcriptomic Alternation Landscape in Urothelial Bladder Carcinoma".
 
