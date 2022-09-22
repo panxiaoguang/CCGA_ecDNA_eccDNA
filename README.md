@@ -85,4 +85,4 @@ This repository contains code  from "Lv et al. Chromosomal, Extrachromosomal, an
 - **merge.manta.delly.py**
 
 ### Contact
-If you have any questions concerning code or data, please do not hesitate to contact us at panxiaoguang@genomics.cn.
+If you have any questions concerning code or data, please do not hesitate to contact us at panxiaoguang@genomics.cn or/and huangjinrong@genomics.cn.
