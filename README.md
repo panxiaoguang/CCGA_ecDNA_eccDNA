@@ -6,6 +6,11 @@ This repository contains code  from "Lv et al. Chromosomal, Extrachromosomal, an
 
 ### Code
 
+#### mutations
+
+- **Annovar2MAF.pl**
+- **CombineVariant.pl**
+
 #### obtain GC contents
 
 - **calGC.py**
@@ -27,6 +32,26 @@ This repository contains code  from "Lv et al. Chromosomal, Extrachromosomal, an
 - **PABPC1_CIRCLE_RNA_WGS_alleleCount.sh** example for allelic frequency and coverage 
 
 #### scripts for main figure plots
+
+- **MutationFreq.Sel.R**
+- **Stat_Kataegis_WithinEvents_or_10k.R**
+- **TMB_MSig.R**
+- **TumorVAF_Kataegis_Kyklonas.R**
+- **TumorVAF_Kyklonas_Oncogene.R**
+- **UBC_SBS.R**
+- **UBC_SBS_exposure_PCT_kmeans.R**
+- **UBC_enrichment_MSig.R**
+- **UBC_lollipopPlot_FGFR3_ecDNA.R**
+- **UBC_lollipopPlot_KDM6A.R**
+- **UBC_lollipopPlot_KMT2D.R**
+- **UBC_lollipopPlot_TP53.R**
+- **UBC_lollipopPlot_TTN_ecDNA.R**
+- **UBC_mafSurvival.R**
+- **UBC_oncoplot.R**
+- **UBC_rainfallPlot-Selected.R**
+- **UBC_survival_OS_MSig.R**
+- **UBC_survival_PFS_MSig.R**
+- **UBC_tcgaCompare.R**
 
 - **annotate_eccDNA_elements.plotData.R**
 - **B-allele_WGS_CircleSeq.plot.R**
@@ -60,4 +85,4 @@ This repository contains code  from "Lv et al. Chromosomal, Extrachromosomal, an
 - **merge.manta.delly.py**
 
 ### Contact
-If you have any questions concerning code or data, please do not hesitate to contact us at panxiaoguang@genomics.cn.
+If you have any questions concerning code or data, please do not hesitate to contact us at panxiaoguang@genomics.cn or/and huangjinrong@genomics.cn.
